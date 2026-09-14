@@ -1,0 +1,15 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+security,com.udacity.catpoint.service,SecurityService,37,202,7,31,11,55,14,24,7,11
+security,com.udacity.catpoint.service,StyleService,11,0,0,0,2,0,2,0,2,0
+security,com.udacity.catpoint.data,Sensor,64,31,6,0,18,10,11,4,8,4
+security,com.udacity.catpoint.data,AlarmStatus,6,53,0,0,2,8,2,2,2,2
+security,com.udacity.catpoint.data,ArmingStatus,6,53,0,0,2,8,2,2,2,2
+security,com.udacity.catpoint.data,PretendDatabaseSecurityRepositoryImpl,126,0,2,0,31,0,11,0,10,0
+security,com.udacity.catpoint.data,SensorType,0,21,0,0,0,2,0,1,0,1
+security,com.udacity.catpoint.data,PretendDatabaseSecurityRepositoryImpl.new TypeToken() {...},6,0,0,0,1,0,1,0,1,0
+security,com.udacity.catpoint.application,ControlPanel,97,0,2,0,18,0,8,0,7,0
+security,com.udacity.catpoint.application,DisplayPanel,63,0,0,0,18,0,4,0,4,0
+security,com.udacity.catpoint.application,CatpointApp,11,0,0,0,4,0,2,0,2,0
+security,com.udacity.catpoint.application,CatpointGui,98,0,0,0,20,0,1,0,1,0
+security,com.udacity.catpoint.application,SensorPanel,277,0,8,0,54,0,14,0,10,0
+security,com.udacity.catpoint.application,ImagePanel,164,0,4,0,43,0,8,0,6,0
